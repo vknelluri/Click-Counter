@@ -18,7 +18,7 @@ class ClickCounter extends Component {
           <br /> <span className="counter-value">{count}</span> times
         </h1>
         <p className="heading2">Click the button to increase the count</p>
-        <button className="button" onClick={this.onIncrement}>
+        <button className="button" onClick={this.onIncrement} type="button">
           Click Me
         </button>
       </div>
