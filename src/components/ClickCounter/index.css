@@ -1,0 +1,22 @@
+.container {
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 12px;
+  text-align: center;
+}
+
+.heading2 {
+  font-family: 'Roboto';
+  font-size: 12px;
+  text-align: center;
+}
+
+.button {
+  font-family: 'Roboto';
+  font-size: 12px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+}
